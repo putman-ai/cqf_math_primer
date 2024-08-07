@@ -291,9 +291,12 @@ $$
 k & k \\
 8 & 4k
 \end{bmatrix}
-$$  
 
 = 0
+
+$$  
+
+
 
 
 Possible answers:
