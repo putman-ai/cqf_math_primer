@@ -1,11 +1,3 @@
-$$
-\begin{bmatrix}
-a & b & c \\
-d & e & f \\
-g & h & i
-\end{bmatrix}
-$$
-
 # CQF Math Primer
 CQF Math Primer (no answers)
 
@@ -296,11 +288,12 @@ Determine those values of $k$ for which
 
 $$
 \begin{bmatrix}
-a & b & c \\
-d & e & f \\
-g & h & i
+k & k \\
+8 & 4k
 \end{bmatrix}
-$$
+$$  
+
+= 0
 
 
 Possible answers:
