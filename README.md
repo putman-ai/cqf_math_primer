@@ -1,11 +1,3 @@
-$$
-\begin{bmatrix}
-a & b & c \\
-d & e & f \\
-g & h & i
-\end{bmatrix}
-$$
-
 # CQF Math Primer
 CQF Math Primer (no answers)
 
@@ -299,6 +291,13 @@ k & k \\
 8 & 4k  
 \end{vmatrix} = 0  
 $$  
+
+$$
+\begin{bmatrix}
+k & k \\
+8 & 4k
+\end{bmatrix}
+$$ = 0
 
 Possible answers:
 1. $0 \& 2$
