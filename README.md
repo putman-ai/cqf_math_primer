@@ -289,7 +289,7 @@ $$
 \begin{vmatrix} 
 k & k \\
 8 & 4k
-\end{vmatrix} = 0
+\end{vmatrix}
 $$
 
 Possible answers:
