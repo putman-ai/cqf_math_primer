@@ -285,12 +285,12 @@ Possible solutions:
 ## Question 19
 
 Determine those values of $k$ for which
-$
+$$
 \begin{vmatrix} 
-      k & k\\
-      8 & 4k
+k & k \\
+8 & 4k
 \end{vmatrix} = 0
-$
+$$
 
 Possible answers:
 1. $0 \& 2$
