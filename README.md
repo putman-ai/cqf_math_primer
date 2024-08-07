@@ -170,3 +170,426 @@ Possible solutions:
 5. $\frac{11}{32}$
 
 
+## Question 11
+
+Let $X$ be a normally distributed random variable with mean $\mu = 4$ and standard deviation $\sigma = 2$. If $E[X]$ denotes the expectation of $X$, then the value of $E[X^2]$ is:
+
+1. 16
+2. 20
+3. 4
+4. 2
+5. 3
+
+
+## Question 12
+A random variable is uniformly distributed over $[0;1]$: What is the skew?
+
+Possible answers:
+1. 3
+2. None of those listed
+3. 6
+4. 2
+5. 4
+
+
+## Question 13
+A normally distributed random variable with mean $\mu$ has a probability density function given by:
+
+$$
+\frac{\gamma}{\sqrt{2 \pi \sigma}} \exp \left( -\frac{\gamma^2}{\sigma} \frac{(x-\mu)^2}{2} \right)
+$$
+
+It's standard deviation is given by:
+
+1. $\frac{\gamma^2}{\sigma}$
+
+2. $\frac{\sigma}{\gamma}$
+
+3. $\frac{\sqrt{\sigma}}{\gamma}$
+
+4. $\frac{\gamma}{\sqrt{\sigma}}$
+
+5. $\frac{\sqrt{\sigma}}{2\gamma}$
+
+
+## Question 14
+if $f(x,y) = x^2 - 4xy + y^3 + 4y$, the sum $fxx + fyy$ is given by:
+
+Possible answers:
+1. $2 - 6y$
+2. $0$
+3. $2x + 4$
+4. $-4(x+y)$
+5. None of the above
+
+
+## Question 15
+Obtain the solution to the differential equation:  
+$\frac{dy}{dx} = \frac{1+y^2}{1+x^2}$
+
+Possible answers:
+1. $\frac{Cx}{1-Cx}$
+
+2. $\frac{Cx}{1+Cx}$
+
+3. $\frac{C-x}{1-Cx}$
+
+4. $\frac{1-Cx}{x+C}$
+
+5. $\frac{x+C}{1-Cx}$
+
+
+## Question 16
+Solve the first order differential equation:
+
+$\frac{dy}{dx} - xy = x$
+
+Possible answers:
+1. $A\exp(-\frac{1}{2}x^2)$
+
+2. $\exp(-\frac{1}{2}x^2) - 1$
+
+3. $\exp(\frac{1}{2}x^2) - A$
+
+4. $A\exp(\frac{1}{2}x^2) - 1$
+
+5. $A\exp(\frac{1}{4}x^2) - 1$
+
+
+# Question 17
+
+Solve $y'' - 4y' + 13y = 0 \text{ to obtain } y =$
+
+Possible answers:  
+
+1. $e^{2x}(A \cos 3x + B \sin 3x)$
+2. $e^{3x} \{A \cos 2x + B \sin 2x\}$
+3. $Ae^{2x} + Be^{3x}$
+4. $e^{3x}(A +Bx)$
+5. $e^{2x}(A + Bx)$
+
+
+# Question 18
+
+Solve $x^2y'' - 4xy' + 6y = 0 \text{ to obtain } y =$
+
+Possible solutions:
+1. $e^{2x}(A \cos 3x + B \sin 3x)$
+2. $Ax^2 + Bx^3$
+3. $x^2(A + B\ln x)$
+4. $x^3(A + B\ln x)$
+5. $x^2(A \cos(3\ln x) + B\sin(3\ln x))$
+
+
+## Question 19
+
+Determine those values of $k$ for which
+$
+\begin{vmatrix} 
+      k & k\\
+      8 & 4k
+\end{vmatrix} = 0
+$
+
+Possible answers:
+1. $0 \& 2$
+2. $2 \&4$
+3. $0 \&-2$
+4. $-2 \&4$
+5. There is no solution.
+
+
+## Question 20
+
+Consider the following problem:  
+
+$
+\begin{array}{l c l}
+2x + y - z & = & 1\\
+x - 2z & = & -5\\
+x - 2y + 3z & = & 6
+\end{array}
+$
+
+What are the values of $x, y \& z$ in turn?
+
+1. A solution does not exist
+
+2. $
+\begin{bmatrix}
+      \begin{array}{c}
+      x = 0\\
+      y = 0\\
+      z = 0
+      \end{array}
+\end{bmatrix}
+$
+
+3. $
+\begin{bmatrix}
+      \begin{array}{c}
+      x = 1\\
+      y = 2\\
+      z = 3
+      \end{array}
+\end{bmatrix}
+$  
+
+4. $
+\begin{bmatrix}
+      \begin{array}{c}
+      x = -1\\
+      y = 0\\
+      z = 2
+      \end{array}
+\end{bmatrix}
+$
+
+5. There are seveal solutions.
+
+
+
+## Question 20
+
+Consider the following problem:  
+
+$
+\begin{array}{l c l}
+2x + y - z & = & 1\\
+x - 2z & = & -5\\
+x - 2y + 3z & = & 6
+\end{array}
+$
+
+What are the values of $x, y \& z$ in turn?
+
+1. A solution does not exist
+
+2. $
+\begin{bmatrix}
+      \begin{array}{c}
+      x = 0\\
+      y = 0\\
+      z = 0
+      \end{array}
+\end{bmatrix}
+$
+
+3. $
+\begin{bmatrix}
+      \begin{array}{c}
+      x = 1\\
+      y = 2\\
+      z = 3
+      \end{array}
+\end{bmatrix}
+$  
+
+4. $
+\begin{bmatrix}
+      \begin{array}{c}
+      x = -1\\
+      y = 0\\
+      z = 2
+      \end{array}
+\end{bmatrix}
+$
+
+5. There are seveal solutions.
+
+
+## Question 20
+
+Consider the following problem:  
+
+$
+\begin{array}{l c l}
+2x + y - z & = & 1\\
+x - 2z & = & -5\\
+x - 2y + 3z & = & 6
+\end{array}
+$
+
+What are the values of $x, y \& z$ in turn?
+
+1. A solution does not exist
+
+2. $
+\begin{bmatrix}
+      \begin{array}{c}
+      x = 0\\
+      y = 0\\
+      z = 0
+      \end{array}
+\end{bmatrix}
+$
+
+3. $
+\begin{bmatrix}
+      \begin{array}{c}
+      x = 1\\
+      y = 2\\
+      z = 3
+      \end{array}
+\end{bmatrix}
+$  
+
+4. $
+\begin{bmatrix}
+      \begin{array}{c}
+      x = -1\\
+      y = 0\\
+      z = 2
+      \end{array}
+\end{bmatrix}
+$
+
+5. There are seveal solutions.
+
+
+## Question 20
+
+Consider the following problem:  
+
+$
+\begin{array}{l c l}
+2x + y - z & = & 1\\
+x - 2z & = & -5\\
+x - 2y + 3z & = & 6
+\end{array}
+$
+
+What are the values of $x, y \& z$ in turn?
+
+1. A solution does not exist
+
+2. $
+\begin{bmatrix}
+      \begin{array}{c}
+      x = 0\\
+      y = 0\\
+      z = 0
+      \end{array}
+\end{bmatrix}
+$
+
+3. $
+\begin{bmatrix}
+      \begin{array}{c}
+      x = 1\\
+      y = 2\\
+      z = 3
+      \end{array}
+\end{bmatrix}
+$  
+
+4. $
+\begin{bmatrix}
+      \begin{array}{c}
+      x = -1\\
+      y = 0\\
+      z = 2
+      \end{array}
+\end{bmatrix}
+$
+
+5. There are seveal solutions.
+
+
+## Question 21
+
+Obtain the determinate of the matrix
+
+$
+\begin{pmatrix}
+      2 & 0 & 1\\
+      3 & 2 & -3\\
+      -1 & -3 & 5
+\end{pmatrix}
+$
+
+To refer specifically to the determinate of the matrix rewrite as:  
+
+$  
+\begin{vmatrix}
+      2 & 0 & 1\\
+      3 & 2 & -3\\
+      -1 & -3 & 5
+\end{vmatrix}
+$
+
+Possible solutions:
+1. 0
+2. -5
+3. Does not exist
+4. 10
+5. 24
+
+
+## Question 22
+Consider the vectors $ \mathbf{u} = (-1,0,k) \text{ and } \mathbf{v} = (6,-4,2)$. What is the value of $k$ for which the two vectors are orthogonal.
+
+Possible answers:
+1. 0
+2. 2
+3. 3
+4. $\frac{1}{2}$
+
+5. They can never be orthogonal
+
+
+## Question 23
+
+If $x = 2 -3i$ is a complex number, then its size is
+
+1. $\sqrt{13}$ (correct answer)
+2. $\sqrt{5i}$
+3. 3
+4. 2
+5. $\sqrt{\frac{2}{3}}$
+
+
+## Question 24
+
+Consider the function $ f(x,y) = x^2+y^2 \text{ where } x = \sin 2 \theta \text{ and } y = \cos 2 \theta. \frac{df}{d\theta}$ is given by:
+
+1. 1
+2. 0
+3. 2
+4. -1
+5. None of those given
+
+
+## Question 25
+Givent the matrix 
+$
+\begin{pmatrix}
+      2 & 2\\
+      1 & 3
+\end{pmatrix}
+$, the value of the largest eigenvalue is:
+
+Possible answers:
+1. 4
+2. 1
+3. -1
+4. -4
+5. The eigenvalues are complex
+
+
+## Question 26
+
+Evaluate
+$\int_{-2}^{1} |x|dx$
+
+Possible answers:
+1. $\frac{1}{2}$
+
+2. $-\frac{1}{2}$
+
+3. $\frac{3}{2}$
+
+4. $-\frac{5}{2}$
+
+5. $\frac{5}{2}$
+
