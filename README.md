@@ -1,3 +1,11 @@
+$$
+\begin{bmatrix}
+a & b & c \\
+d & e & f \\
+g & h & i
+\end{bmatrix}
+$$
+
 # CQF Math Primer
 CQF Math Primer (no answers)
 
@@ -284,7 +292,9 @@ Possible solutions:
 
 ## Question 19
 
-Determine those values of $k$ for which $$
+Determine those values of $k$ for which  
+
+$$
 \begin{bmatrix}
 a & b & c \\
 d & e & f \\
