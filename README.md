@@ -284,19 +284,19 @@ Possible solutions:
 
 ## Question 19
 
-Determine those values of $k$ for which
-$
+Determine those values of \( k \) for which
+\[
 \begin{vmatrix} 
       k & k\\
       8 & 4k
 \end{vmatrix} = 0
-$
+\]
 
 Possible answers:
-1. $0 \& 2$
-2. $2 \&4$
-3. $0 \&-2$
-4. $-2 \&4$
+1. \( 0 \text{ and } 2 \)
+2. \( 2 \text{ and } 4 \)
+3. \( 0 \text{ and } -2 \)
+4. \( -2 \text{ and } 4 \)
 5. There is no solution.
 
 
