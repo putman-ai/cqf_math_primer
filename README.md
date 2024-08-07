@@ -293,10 +293,10 @@ Determine those values of \( k \) for which
 \]
 
 Possible answers:
-1. \( 0 \text{ and } 2 \)
-2. \( 2 \text{ and } 4 \)
-3. \( 0 \text{ and } -2 \)
-4. \( -2 \text{ and } 4 \)
+1. \(0 \& 2\)
+2. \(2 \& 4\)
+3. \(0 \& -2\)
+4. \(-2 \& 4\)
 5. There is no solution.
 
 
