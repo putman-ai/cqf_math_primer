@@ -284,17 +284,14 @@ Possible solutions:
 
 ## Question 19
 
-Determine those values of $k$ for which  
+Determine those values of \( k \) for which
 
 $$
-\begin{bmatrix}
+\det\begin{bmatrix}
 k & k \\
 8 & 4k
-\end{bmatrix}
-
-= 0
-
-$$  
+\end{bmatrix} = 0
+$$
 
 
 
