@@ -2,6 +2,7 @@
 CQF Math Primer (no answers)
 
 Not going to lie, this test was difficult for me! I struggled to get through it and had to do a lot of research in the middle of each question.  
+
 On average, I spent an hour or more on each one. 
 
 Recreating the test here in markdown was a good way to get brushed back up on LaTeX.
