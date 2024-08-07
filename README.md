@@ -284,7 +284,7 @@ Possible solutions:
 
 ## Question 19
 
-Determine those values of \( k \) for which
+Determine those values of $k$ for which
 
 $$
 \det\begin{bmatrix}
@@ -293,14 +293,11 @@ k & k \\
 \end{bmatrix} = 0
 $$
 
-
-
-
 Possible answers:
-1. $0 \& 2$
-2. $2 \&4$
-3. $0 \&-2$
-4. $-2 \&4$
+1. $0 & 2$
+2. $2 & 4$
+3. $0 & -2$
+4. $-2 & 4$
 5. There is no solution.
 
 
