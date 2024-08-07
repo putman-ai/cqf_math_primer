@@ -294,12 +294,11 @@ k & k \\
 $$
 
 Possible answers:
-1. $0 \& 2$
-2. $2 \& 4$
-3. $0 \& -2$
-4. $-2 \& 4$
+1. 0 &amp; 2
+2. 2 &amp; 4
+3. 0 &amp; -2
+4. -2 &amp; 4
 5. There is no solution.
-
 
 ## Question 20
 
