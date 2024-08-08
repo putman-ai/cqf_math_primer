@@ -304,13 +304,13 @@ Possible answers:
 
 Consider the following problem:  
 
-$S
-\begin{array}{l c l}
-2x + y - z & = & 1\\
-x - 2z & = & -5\\
+$$
+\begin{array}{lcl}
+2x + y - z & = & 1 \\
+x - 2z & = & -5 \\
 x - 2y + 3z & = & 6
 \end{array}
-$S
+$$
 
 What are the values of $x, y &amp; z$ in turn?
 
