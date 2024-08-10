@@ -1,4 +1,17 @@
-# CQF Math Primer (No Answers)
+# CQF
+I've wanted to sit for the CQF since I first became aware of it in the mid-2000's.  
+Something always got in the way though and I just never got around to it.  I was also a little  
+concerned about the math portion and some of the programming requirments.  
+
+Fast forward to 2023: I've spent many years in the Numerai Data Science competition and   
+my coding and math skills are a lot better.
+
+I have unfortunately had to put it on hold again for family reasons. But, I feel like I've got my foot  
+in the door and who knows, maybe when I'm 60 I can hang this on the backside of my signature.
+
+![Description of the image](https://github.com/putman-ai/cqf_math_primer/blob/main/cqf.png)
+
+## CQF Math Primer (No Answers)
 
 I know for many people this level of math is pretty easy. I'm not going to lie though, this test was difficult for me!  
 At 57, it's been a long time since I worked on traditional math and I struggled to get through this.  
