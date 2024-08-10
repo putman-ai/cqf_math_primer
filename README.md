@@ -400,7 +400,7 @@ Possible answers:
 
 If $x = 2 -3i$ is a complex number, then its size is
 
-1. $\sqrt{13}$ (correct answer)
+1. $\sqrt{13}$
 2. $\sqrt{5i}$
 3. 3
 4. 2
@@ -409,7 +409,13 @@ If $x = 2 -3i$ is a complex number, then its size is
 
 ## Question 24
 
-Consider the function $ f(x,y) = x^2+y^2 \text{ where } x = \sin 2 \theta \text{ and } y = \cos 2 \theta. \frac{df}{d\theta}$ is given by:
+Consider the function: 
+
+$$ 
+f(x,y) = x^2+y^2 \text{ where } x = \sin 2 \theta \text{ and } y = \cos 2 \theta \frac{df}{d\theta} 
+$$ 
+
+is given by:
 
 1. 1
 2. 0
