@@ -380,7 +380,7 @@ Possible solutions:
 
 ## Question 22
 Consider the vectors   
-$$ 
+$$   
 \mathbf{u} = (-1, 0, k), \quad \mathbf{v} = (6, -4, 2) 
 $$  
 
