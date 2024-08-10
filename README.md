@@ -320,9 +320,9 @@ What are the values of $x$, $y$ &amp; $z$ in turn?
 $$
 \begin{bmatrix}
    \begin{aligned}
-    x & = 0\\
-    y & = 0\\
-    z & = 0
+    x = 0\\
+    y = 0\\
+    z = 0
   \end{aligned}
 \end{bmatrix}
 $$
@@ -331,9 +331,9 @@ $$
 $$
 \begin{bmatrix}
    \begin{aligned}
-   x &= 1 \\
-   y &= 2 \\
-   z &= 3 \\
+   x = 1 \\
+   y = 2 \\
+   z = 3 \\
    \end{aligned}
 \end{bmatrix}
 $$
