@@ -332,14 +332,16 @@ z = 3
 \end{array}
 $$ 
 
-$$ x = \begin{bmatrix} 1 \\ 2 \\ 3 \end{bmatrix} $$
+
 
 $$
-\begin{aligned}
-x & = 1 \\
-y & = 2 \\
-z & = 3 \\
-\end{aligned}
+\begin{bmatrix}
+   \begin{aligned}
+   x & = 1 \\
+   y & = 2 \\
+   z & = 3 \\
+   \end{aligned}
+\end{bmatrix}
 $$
 
 
