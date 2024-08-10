@@ -317,34 +317,28 @@ What are the values of $x$, $y$ &amp; $z$ in turn?
 1. A solution does not exist
 
 2. $$
-\begin{bmatrix}
-      \begin{array}{c}
-      x = 0\\
-      y = 0\\
-      z = 0
-      \end{array}
-\end{bmatrix}
+ \begin{array}{c}
+ x = 0\\
+ y = 0\\
+ z = 0
+ \end{array}
 $$
 
-3. $
-\begin{bmatrix}
-      \begin{array}{c}
-      x = 1\\
-      y = 2\\
-      z = 3
-      \end{array}
-\end{bmatrix}
-$  
+3. $$
+\begin{array}{c}
+x = 1\\
+y = 2\\
+z = 3
+\end{array}
+$$  
 
-4. $
-\begin{bmatrix}
-      \begin{array}{c}
-      x = -1\\
-      y = 0\\
-      z = 2
-      \end{array}
-\end{bmatrix}
-$
+4. $$
+\begin{array}{c}
+x = -1\\
+y = 0\\
+z = 2
+\end{array}
+$$
 
 5. There are seveal solutions.
 
