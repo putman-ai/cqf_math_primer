@@ -384,6 +384,15 @@ $$
 \mathbf{u} = (-1,0,k) \text{ and } \mathbf{v} = (6,-4,2)
 $$. 
 
+$$
+\mathbf{u} = (-1, 0, k), \quad \mathbf{v} = (6, -4, 2)
+$$
+
+$$
+u = (-1, 0, k), \quad v = (6, -4, 2)
+$$
+
+
 What is the value of $k$ for which the two vectors are orthogonal.
 
 Possible answers:
