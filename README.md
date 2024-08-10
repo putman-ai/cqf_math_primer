@@ -1,20 +1,16 @@
 # CQF Math Primer
 CQF Math Primer (no answers)
 
-Not going to lie, this test was difficult for me! I struggled to get through it and had to do a lot of research in the middle of each question.  
-
-On average, I spent an hour or more on each one. 
-
-Recreating the test here in markdown was a good way to get brushed back up on LaTeX.
-Although I'm sure some of that is wrong as well!
-That also added to the time spent on the questions.
+Not going to lie, this test was difficult for me! At 57, it's been a minute since I worked on traditional math   
+and I struggled to get through it.  I spent a lot of time before and during the test brushing up and clarifying.  
+Please note this doc is likely full of errors. I'm only fair with LaTeX to begin with (I'm not a doc writer),  
+and what I had locally did not want to work on Github in a web environment. 
 
 Final score 22 of 26.
 
 
 ## Question 1
 ### Second Order Derivative
-
 The second order derivative $\frac{d^2 f}{dx^2} \text{ of } f(x) = x \exp(-x)$
 
 Possible answers:
@@ -356,13 +352,13 @@ $$
 
 Obtain the determinate of the matrix
 
-$
+$$
 \begin{pmatrix}
-      2 & 0 & 1\\
-      3 & 2 & -3\\
-      -1 & -3 & 5
+   2 & 0 & 1\\
+   3 & 2 & -3\\
+   -1 & -3 & 5
 \end{pmatrix}
-$
+$$
 
 To refer specifically to the determinate of the matrix rewrite as:  
 
