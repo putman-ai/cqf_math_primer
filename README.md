@@ -426,12 +426,15 @@ is given by:
 
 ## Question 25
 Givent the matrix 
-$
+
+$$  
 \begin{pmatrix}
       2 & 2\\
       1 & 3
 \end{pmatrix}
-$, the value of the largest eigenvalue is:
+$$ 
+
+the value of the largest eigenvalue is:
 
 Possible answers:
 1. 4
