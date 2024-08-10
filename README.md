@@ -312,11 +312,11 @@ x - 2y + 3z & = & 6
 \end{array}
 $$
 
-What are the values of $x, y &amp; z$ in turn?
+What are the values of $x$, $y$ &amp; $z$ in turn?
 
 1. A solution does not exist
 
-2. $
+2. $$
 \begin{bmatrix}
       \begin{array}{c}
       x = 0\\
@@ -324,7 +324,7 @@ What are the values of $x, y &amp; z$ in turn?
       z = 0
       \end{array}
 \end{bmatrix}
-$
+$$
 
 3. $
 \begin{bmatrix}
