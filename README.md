@@ -1,9 +1,11 @@
 # CQF Math Primer (No Answers)
 
-Not going to lie, this test was difficult for me! At 57, it's been a minute since I worked on traditional math   
-and I struggled to get through it.  I spent a lot of time before and during the test brushing up and clarifying.  
+I know for many people this level of math is pretty easy. I'm not going to lie though, this test was difficult for me!  
+At 57, it's been a long time since I worked on traditional math and I struggled to get through this.  
+I spent a lot of time before and during the test brushing up and clarifying.  
+
 Please note this doc is likely full of errors. I'm only fair with LaTeX to begin with (I'm not a doc writer),  
-and what I had locally, did not want to work on Github in a web environment. 
+and what I had locally, did not want to render on Github in a web environment. 
 
 Final score 22 of 26.
 
