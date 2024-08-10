@@ -379,7 +379,10 @@ Possible solutions:
 
 
 ## Question 22
-Consider the vectors $$ \mathbf{u} = (-1, 0, k), \quad \mathbf{v} = (6, -4, 2) $$
+Consider the vectors 
+$$ 
+\mathbf{u} = (-1, 0, k), \quad \mathbf{v} = (6, -4, 2) 
+$$
 
 What is the value of $k$ for which the two vectors are orthogonal.
 
