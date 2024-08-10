@@ -337,9 +337,9 @@ $$
 $$
 \begin{bmatrix}
    \begin{aligned}
-   x & = 1 \\
-   y & = 2 \\
-   z & = 3 \\
+   x &= 1 \\
+   y &= 2 \\
+   z &= 3 \\
    \end{aligned}
 \end{bmatrix}
 $$
