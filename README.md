@@ -318,9 +318,9 @@ What are the values of $x$, $y$ &amp; $z$ in turn?
 
 2. $$
  \begin{array}{c}
- x = 0\\
- y = 0\\
- z = 0
+ x & = 0\\
+ y & = 0\\
+ z & = 0
  \end{array}
 $$
 
