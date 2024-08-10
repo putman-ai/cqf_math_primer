@@ -316,7 +316,8 @@ What are the values of $x$, $y$ &amp; $z$ in turn?
 
 1. A solution does not exist
 
-2. $$
+2.
+$$
 \begin{bmatrix}
    \begin{aligned}
     x & = 0\\
@@ -326,7 +327,8 @@ What are the values of $x$, $y$ &amp; $z$ in turn?
 \end{bmatrix}
 $$
 
-3. $$
+3.
+$$
 \begin{bmatrix}
    \begin{aligned}
    x &= 1 \\
@@ -336,7 +338,8 @@ $$
 \end{bmatrix}
 $$
 
-4. $$
+4.
+$$
 \begin{bmatrix}
    \begin{aligned}
    x = -1\\
@@ -346,7 +349,7 @@ $$
 \end{bmatrix}
 $$
 
-5. There are seveal solutions.
+6. There are seveal solutions.
 
 
 ## Question 21
