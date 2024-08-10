@@ -362,13 +362,13 @@ $$
 
 To refer specifically to the determinate of the matrix rewrite as:  
 
-$  
-\begin{vmatrix}
+$$  
+\det\begin{vmatrix}
       2 & 0 & 1\\
       3 & 2 & -3\\
       -1 & -3 & 5
 \end{vmatrix}
-$
+$$
 
 Possible solutions:
 1. 0
